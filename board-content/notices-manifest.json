@@ -1,0 +1,9 @@
+{
+  "schemaVersion": 1,
+  "page": "notices",
+  "mode": "publish",
+  "assetVersion": "content-508a5d0da7a7",
+  "noticesJson": "/jsg-public-content/board-content/notices.json",
+  "attachmentsBase": "/jsg-public-content/board-content/attachments/",
+  "postsBase": "/jsg-public-content/board-content/posts/"
+}

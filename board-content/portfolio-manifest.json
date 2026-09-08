@@ -1,0 +1,206 @@
+{
+  "schemaVersion": 1,
+  "page": "portfolio",
+  "mode": "publish",
+  "assetVersion": "content-508a5d0da7a7",
+  "companies": [
+    {
+      "id": "goodlife-lab",
+      "order": 10,
+      "name": "굿라이프랩",
+      "sector": "멘탈 웰니스",
+      "market": "",
+      "ticker": "",
+      "listingDate": "",
+      "listingNote": "",
+      "descriptionText": "/jsg-public-content/board-content/portfolio/goodlife-lab.txt"
+    },
+    {
+      "id": "huinno",
+      "order": 20,
+      "name": "휴이노",
+      "sector": "디지털 헬스케어",
+      "market": "",
+      "ticker": "",
+      "listingDate": "",
+      "listingNote": "",
+      "descriptionText": "/jsg-public-content/board-content/portfolio/huinno.txt"
+    },
+    {
+      "id": "ingenium-therapeutics",
+      "order": 30,
+      "name": "인게니움테라퓨틱스",
+      "sector": "바이오 · 세포치료제",
+      "market": "",
+      "ticker": "",
+      "listingDate": "",
+      "listingNote": "",
+      "descriptionText": "/jsg-public-content/board-content/portfolio/ingenium-therapeutics.txt"
+    },
+    {
+      "id": "g2gbio",
+      "order": 60,
+      "name": "지투지바이오",
+      "sector": "바이오 · 약물전달",
+      "market": "KOSDAQ",
+      "ticker": "456160",
+      "listingDate": "2025-08-14",
+      "listingNote": "",
+      "descriptionText": "/jsg-public-content/board-content/portfolio/g2gbio.txt"
+    },
+    {
+      "id": "optolane",
+      "order": 70,
+      "name": "옵토레인",
+      "sector": "바이오 · 분자진단",
+      "market": "",
+      "ticker": "",
+      "listingDate": "",
+      "listingNote": "",
+      "descriptionText": "/jsg-public-content/board-content/portfolio/optolane.txt"
+    },
+    {
+      "id": "graphy",
+      "order": 80,
+      "name": "그래피",
+      "sector": "헬스케어 · 치과 소재",
+      "market": "KOSDAQ",
+      "ticker": "318060",
+      "listingDate": "2025-08-25",
+      "listingNote": "",
+      "descriptionText": "/jsg-public-content/board-content/portfolio/graphy.txt"
+    },
+    {
+      "id": "acryl",
+      "order": 100,
+      "name": "아크릴",
+      "sector": "AI · 소프트웨어",
+      "market": "KOSDAQ",
+      "ticker": "0007C0",
+      "listingDate": "2025-12-16",
+      "listingNote": "",
+      "descriptionText": "/jsg-public-content/board-content/portfolio/acryl.txt"
+    },
+    {
+      "id": "coptic",
+      "order": 110,
+      "name": "콥틱",
+      "sector": "3D 안경",
+      "market": "",
+      "ticker": "",
+      "listingDate": "",
+      "listingNote": "",
+      "descriptionText": "/jsg-public-content/board-content/portfolio/coptic.txt"
+    },
+    {
+      "id": "rznomics",
+      "order": 120,
+      "name": "알지노믹스",
+      "sector": "바이오",
+      "market": "KOSDAQ",
+      "ticker": "476830",
+      "listingDate": "2025-12-18",
+      "listingNote": "",
+      "descriptionText": "/jsg-public-content/board-content/portfolio/rznomics.txt"
+    },
+    {
+      "id": "sambo-motors",
+      "order": 130,
+      "name": "삼보모터스",
+      "sector": "자동차",
+      "market": "KOSDAQ",
+      "ticker": "053700",
+      "listingDate": "2001-11-06",
+      "listingNote": "2010년 9월 합병을 통한 상장",
+      "descriptionText": "/jsg-public-content/board-content/portfolio/sambo-motors.txt"
+    },
+    {
+      "id": "rf-medical",
+      "order": 140,
+      "name": "알에프메디컬",
+      "sector": "의료기기",
+      "market": "",
+      "ticker": "",
+      "listingDate": "",
+      "listingNote": "",
+      "descriptionText": "/jsg-public-content/board-content/portfolio/rf-medical.txt"
+    },
+    {
+      "id": "future-connect",
+      "order": 150,
+      "name": "퓨처커넥트",
+      "sector": "스마트팜",
+      "market": "",
+      "ticker": "",
+      "listingDate": "",
+      "listingNote": "",
+      "descriptionText": "/jsg-public-content/board-content/portfolio/future-connect.txt"
+    },
+    {
+      "id": "kmf",
+      "order": 160,
+      "name": "케이엠에프",
+      "sector": "발효",
+      "market": "",
+      "ticker": "",
+      "listingDate": "",
+      "listingNote": "",
+      "descriptionText": "/jsg-public-content/board-content/portfolio/kmf.txt"
+    },
+    {
+      "id": "des-holdings",
+      "order": 170,
+      "name": "디이에스홀딩스",
+      "sector": "반도체",
+      "market": "",
+      "ticker": "",
+      "listingDate": "",
+      "listingNote": "",
+      "descriptionText": "/jsg-public-content/board-content/portfolio/des-holdings.txt"
+    },
+    {
+      "id": "cis-chemical",
+      "order": 180,
+      "name": "씨아이에스케미칼",
+      "sector": "2차전지 소재",
+      "market": "",
+      "ticker": "",
+      "listingDate": "",
+      "listingNote": "",
+      "descriptionText": "/jsg-public-content/board-content/portfolio/cis-chemical.txt"
+    },
+    {
+      "id": "ucast",
+      "order": 190,
+      "name": "유캐스트",
+      "sector": "통신",
+      "market": "",
+      "ticker": "",
+      "listingDate": "",
+      "listingNote": "",
+      "descriptionText": "/jsg-public-content/board-content/portfolio/ucast.txt"
+    },
+    {
+      "id": "res",
+      "order": 200,
+      "name": "알이에스",
+      "sector": "2차전지 리사이클링",
+      "market": "",
+      "ticker": "",
+      "listingDate": "",
+      "listingNote": "",
+      "descriptionText": "/jsg-public-content/board-content/portfolio/res.txt"
+    },
+    {
+      "id": "pgt",
+      "order": 210,
+      "name": "피지티",
+      "sector": "전해액 소재",
+      "market": "",
+      "ticker": "",
+      "listingDate": "",
+      "listingNote": "",
+      "descriptionText": "/jsg-public-content/board-content/portfolio/pgt.txt"
+    }
+  ]
+}
